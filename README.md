@@ -22,7 +22,7 @@ The model achieved a recall of 1.00, precision of 0.98, and an F-score of 0.99 o
 
 ## Project Report
 
-For more details about the project, refer to the [Final_Crack_Detection_Model.pdf](link-to-project-report) file. It provides a comprehensive overview of the model architecture, training process, and evaluation results.
+For more details about the project, refer to the Final_Crack_Detection_Model.pdf file. It provides a comprehensive overview of the model architecture, training process, and evaluation results.
 
 
 
