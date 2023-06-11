@@ -20,7 +20,9 @@ This repository contains the code and documentation for a deep learning model de
 
 The model achieved a recall of 1.00, precision of 0.98, and an F-score of 0.99 on the test set, indicating its high robustness and accuracy in crack detection.
 
-## License
+## Project Report
 
-This project is licensed under the [MIT License](LICENSE).
+For more details about the project, refer to the [Final_Crack_Detection_Model.pdf](link-to-project-report) file. It provides a comprehensive overview of the model architecture, training process, and evaluation results.
+
+
 
