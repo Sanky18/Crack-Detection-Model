@@ -9,7 +9,8 @@ This repository contains the code and documentation for a deep learning model de
 
 *Ensured security and authentication measures by implementing username and password-based authentication for the dashboard.*
 
-![image](https://github.com/Sanky18/Crack-Detection-Model/assets/119156783/8267bbd1-e79d-47e9-93c6-b0d973ac8a82)
+![Media Player 11-06-2023 13_34_38 (1)](https://github.com/Sanky18/Crack-Detection-Model/assets/119156783/789c90f6-e311-4cbf-9118-ecca1b33fe7e)
+
 
 *Created a web-based dashboard using Gradio to allow users to interact with the model by uploading and predicting on new images*
 
