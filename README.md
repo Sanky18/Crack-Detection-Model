@@ -13,8 +13,8 @@ This repository contains the code and documentation for a deep learning model de
 
 ## Usage
 
-1. Run `python train.py` to train the crack detection model evaluate the model's performance on the test set.
-2. Launch the web-based dashboard: `python dashboard.py`
+1. Run `problem-1(Surface-Crack).ipynb` to train the crack detection model evaluate the model's performance on the test set.
+2. Launch the web-based dashboard: `problem-1 with dashboard(Surface-Crack).ipynb`
 
 ## Results
 
